@@ -1,6 +1,6 @@
 # Hey, I'm Ritvik 👋
 
-**Generative AI Engineer · UT Dallas, CIS Tech '27 · Frisco, TX**
+**AI Engineer · UT Dallas, CIS Tech '27 · Frisco, TX**
 
 I build AI-powered products end-to-end — from multi-agent pipelines and RAG systems to full-stack deployment on GCP. Currently working as an AI Engineer at **Recrux.ai** building LangChain + CrewAI integrations, and previously at **Easy Stones** and **XSignOn**.
 
