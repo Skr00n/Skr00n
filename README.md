@@ -54,13 +54,6 @@ I build AI-powered products end-to-end — from multi-agent pipelines and RAG sy
 
 ---
 
-### 📊 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skr00n&layout=compact&theme=transparent&hide_border=true" />
-</div>
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ritvikparuchuri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritvikparuchuri)
