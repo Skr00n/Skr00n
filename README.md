@@ -2,7 +2,7 @@
 
 **Generative AI Engineer · UT Dallas, CIS Tech '27 · Frisco, TX**
 
-I build AI-powered products end-to-end — from multi-agent pipelines and RAG systems to full-stack deployment on GCP. Currently working as an AI Engineer at **Recrux.ai** building LangChain + CrewAI integrations, and previously at **Easy Stones** and **XSignOn**.
+I build AI-powered products end-to-end — from multi-agent pipelines and RAG systems to full-stack deployment on GCP. Currently working as an AI Engineer at **Recruix.ai** building LangChain + CrewAI integrations, and previously at **Easy Stones** and **XSignOn**.
 
 ---
 
@@ -54,11 +54,10 @@ I build AI-powered products end-to-end — from multi-agent pipelines and RAG sy
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Skr00n&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skr00n&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skr00n&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
 ---
