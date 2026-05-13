@@ -50,7 +50,6 @@ I build AI-powered products end-to-end — from multi-agent pipelines and RAG sy
 ![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GCP Digital Leader](https://img.shields.io/badge/GCP_Digital_Leader-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GCP Gen AI Leader](https://img.shields.io/badge/GCP_Gen_AI_Leader-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![CSM](https://img.shields.io/badge/Certified_ScrumMaster-009FDA?style=flat-square)
 
 ---
