@@ -37,6 +37,7 @@ I build AI-powered products end-to-end — from multi-agent pipelines and RAG sy
 | Project | Description | Stack |
 |---|---|---|
 | 🔍 **[sailpoint-servicenow-audit-agent](https://github.com/Skr00n/sailpoint-servicenow-audit-agent)** | AI audit assistant that analyzes SailPoint identity governance and ServiceNow change logs via natural language queries — generates reports and exports to CSV | LangChain · OpenAI · MySQL · Streamlit · Pandas |
+| 🔐 **[AI-Request-Manager](https://github.com/Skr00n/AI-Request-Manager)** | Conversational access request assistant for SailPoint IdentityIQ — raise identity requests, check status, view roles and entitlements, and get approver details via natural language | AWS Bedrock · Claude 3 Haiku · LangChain · Streamlit · SailPoint REST |
 | 📈 **[stockagent](https://github.com/Skr00n/stockagent)** | Multi-agent investment research tool with three specialized agents (Financial, Research, Investment Advisor) that pull SEC 10-K/10-Q filings and produce full analysis reports | CrewAI · FastAPI · SEC API · Docker · Gradio |
 | ✍️ **[ai-humanizer](https://github.com/Skr00n/ai-humanizer)** | Rewrites AI-generated text to sound natural and human — deployed on Vercel with a React + Vite frontend and FastAPI backend | Vertex AI Gemini · FastAPI · React · Vite · Docker |
 | 📄 **[resuMatch](https://github.com/Skr00n/resuMatch)** | Resume keyword scorer — paste a job description and get instant ATS keyword match analysis | HTML · JavaScript · Vercel |
